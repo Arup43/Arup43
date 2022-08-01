@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arup Debnath</h1>
 
-<h3 align="center">A passionate Full-Stack developer from Bangladesh, currently studying at BUET (3rd year).</h3>
+<h3 align="center">A passionate Software developer from Bangladesh, currently studying at BUET (3rd year).</h3>
 
 
 - 🌱 I’m currently learning **MERN stack**
