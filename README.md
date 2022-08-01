@@ -32,11 +32,11 @@
 <h3>Profile Overviw</h3>
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arup43&layout=compact&theme=radical)](https://github.com/arup43/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arup43&layout=compact&theme=radical)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arup43&show_icons=true&theme=radical" alt="arup43" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arup43&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arup43&theme=dark)
 
 <h3 align="left">Connect with me</h3>
 <hr>
