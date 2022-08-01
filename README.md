@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arup Debnath</h1>
 
+
 <h3 align="center">A passionate Software developer from Bangladesh, currently studying at BUET (3rd year).</h3>
 
+
+<br><br>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="700" height="400" align="center" />
 
 - 🌱 I’m currently learning **MERN stack**
 
@@ -28,4 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arup43&show_icons=true&theme=radical" alt="arup43" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arup43&theme=dark)](https://git.io/streak-stats)
+
 
