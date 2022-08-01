@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Arup Debnath</h1>
+<h1 align="center">Hey 👋, I'm Arup Debnath</h1>
 
 
-<h3 align="center">A passionate Software Engineer from Bangladesh, currently studying BSc in CSE at BUET (3rd year).</h3>
+<h3 align="center">A passionate Software Engineer from Bangladesh, currently studying BSc in CSE at BUET (3rd year) 🧑‍💻</h3>
 
 
 <br><br>
@@ -9,6 +9,8 @@
 
 <h3>About Me</h3>
 <hr>
+
+<p></p>
 
 - 🌱 I’m currently learning **MERN stack**
 
