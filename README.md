@@ -5,7 +5,7 @@
 
 
 <br><br>
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="700" height="400" align="center" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="70%" height="70%" align="center" />
 
 <h3>About Me</h3>
 <hr>
