@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Arup Debnath</h1>
 
 
-<h3 align="center">Full Stack Software Engineer experienced in building scalable web applications 🧑‍💻</h3>
+<h3 align="center">Full Stack Software Engineer experienced in building scalable web applications. 🧑‍💻</h3>
 
 
 <br><br>
@@ -12,11 +12,9 @@
 
 <p></p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 💬 Ask me about **ReactJs, NextJs, ExpressJs, Spring Boot, FastAPI, Agentic AI, MCP, PostgreSql, Data structures and algorithms**
 
-- 💬 Ask me about **Reactjs, Nodejs, Data structure and algorithm**
-
-- 📫 How to reach me **1805043@ugrad.cse.buet.ac.bd**
+- 📫 How to reach me **debnatharupbzs@gmail.com**
 
 <br>
 
