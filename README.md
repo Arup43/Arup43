@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Arup Debnath</h1>
 
 
-<h3 align="center">Full Stack Software Engineer experienced in building scalable web applications. 🧑‍💻</h3>
+<h3 align="center">Full Stack Software Engineer experienced in building scalable web applications 🧑‍💻</h3>
 
 
 <br><br>
