@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Arup Debnath</h1>
 
 
-<h3 align="center">Full Stack Software Engineer experienced in building scalable web applications using React, NextJs, FastAPI, Spring Boot, PostgreSql and AWS services. Strong background in backend development, API integration, Agentic AI workflows, Real-time services and Distributed system design. Passionate about crafting clean, efficient code and contributing to high-impact engineering projects. 🧑‍💻</h3>
+<h3 align="center">Full Stack Software Engineer experienced in building scalable web applications. 🧑‍💻</h3>
 
 
 <br><br>
